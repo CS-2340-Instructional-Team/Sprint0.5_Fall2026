@@ -1,4 +1,4 @@
-# CS 2340 Fall 2026 Repository
+# CS 2340 - O1 Fall 2026 Repository
 > Please read these instructions then replace this `README.md` file with your own repository documentation as you see fit.
 
 This repository will be used throughout the semester to organize and manage your group's project work for CS 2340. You will share this repository with your teammates and use it for your group assignments throughout the semester.
