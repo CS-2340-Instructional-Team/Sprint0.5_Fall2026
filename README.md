@@ -10,4 +10,5 @@ The repository currently contains the following:
 - `Project/` — This directory contains all of your group's project work. Your Django project and any related files should be created and maintained inside this directory throughout the semester.
 - `.gitignore` — This file contains files and directories that should not be tracked by Git. You may update it as needed for your project.
 - `README.md` —  This file contains documentation for your project. You may modify this file as your project develops.
+  
 Please maintain the `Project/` directory as the location for all project-related work throughout the semester.
